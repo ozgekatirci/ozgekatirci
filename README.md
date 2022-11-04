@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Özge Katırcı</h1>
-<h3 align="center">Senior Computer Engineering Student at Eskişehir Osmangazi University</h3>
+<h3 align="center">Software Developer</h3>
 
 - 📫 How to reach me **ozgekatirci0@gmail.com**
 
